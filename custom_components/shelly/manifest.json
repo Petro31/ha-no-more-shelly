@@ -1,0 +1,9 @@
+{
+    "domain": "shelly",
+    "name": "Shelly",
+    "documentation": "https://github.com/Petro31/no-more-shelly",
+    "issue_tracker": "https://github.com/Petro31/no-more-shelly/issue",
+    "codeowners": ["@Petro31"],
+    "iot_class": "local_push",
+    "version": "1.0"
+  }
